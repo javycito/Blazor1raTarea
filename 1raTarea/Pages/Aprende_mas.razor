@@ -2,45 +2,52 @@
 
 <PageTitle>Aprende Más</PageTitle>
 
+@if(mostrarVideo)
+{
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/@(urlVideo)" frameborder="0" allowfullscreen></iframe>
+}
+
 <h1>Aprende Más</h1>
 
 <p>En esta sección encontrarás contenido adicional para aprender más sobre Blazor WebAssembly</p>
 
 <div class="row">
-
     @foreach (var video in videos)
     {
         <div class="col-md-4 mb-3">
-            <div class="card" >
-                <img @onclick="()=>verVideo(video)" class="card-img-top" src="https://i.ytimg.com/vi/@video.URL/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWdfa4tvfTcLzanEL9J_dZmp3O_A"" alt="Card image cap">
+            <div class="card">
+                <img @onclick="()=>verVideo(video)" class="card-img-top" src="https://i.ytimg.com/vi/@(video.URL)/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWdfa4tvfTcLzanEL9J_dZmp3O_A" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Video</h5>
                     <p class="card-text">@video.Titulo</p>
-                    <a href="https://www.youtube.com/watch?v=@video.URL" target="_blank"
-                     class="btn btn-primary">Ver Video</a>
+                    <a href="https://www.youtube.com/watch?v=@(video.URL)" target="_blank" class="btn btn-primary">Ver Video</a>
                 </div>
             </div>
         </div>
-
     }
-
-
-
+</div>
 
 @code {
-        class Video{
-            public string Titulo { get; set; }
-            public string URL { get; set; }
-        }
+    class Video
+    {
+        public string? Titulo { get; set; }
+        public string? URL { get; set; }
+    }
 
-        void verVideo(Video video){
-        }
+    void verVideo(Video video)
+    {
+        mostrarVideo = true;
+        urlVideo = video.URL = "";
+    }
 
-        List<Video> videos = new List<Video>{
+    bool mostrarVideo = false;
+    string urlVideo = "";
+
+    List<Video> videos = new List<Video>{
         new Video{Titulo = "Blazor en 10 minutos", URL = "VDkiB5F7FH0"},
-        new Video{Titulo = "Blazor WebAssembly vs Blazer Server", URL = "aKYLx-YOPAg"},
+        new Video{Titulo = "Blazor WebAssembly vs Blazor Server", URL = "aKYLx-YOPAg"},
         new Video{Titulo = "Blazor en 100 segundos", URL = "QXxNlpjnulI"},
         new Video{Titulo = "Brutal consejo honesto para nuevos desarrolladores web .NET", URL = "ohkeYczD1LY"},
-        new Video{Titulo = ".NET y C# están en problemas. Esto es lo que hay que hacer", URL = "XUJ95hVjS20"},
-        
+        new Video{Titulo = ".NET y C# están en problemas. Esto es lo que hay que hacer", URL = "XUJ95hVjS20"}
+    };
 }

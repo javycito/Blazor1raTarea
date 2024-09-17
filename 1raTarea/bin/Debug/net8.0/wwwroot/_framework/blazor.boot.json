@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "1raTarea",
   "resources": {
-    "hash": "sha256-vDGBaYmZd/Iv1wpqPE7XI3iekb/dusszWGqvR7mH4+s=",
+    "hash": "sha256-OcN69Sk5WjpHQSrBLihb8gRUvW62MTu812P3sEIVf3M=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.2w1nm3zske.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "1raTarea.wasm": "sha256-meRhHG/kae2t9HSJSJ8ABv6oy4N1vp3RbjZsu7su6kg="
+      "1raTarea.wasm": "sha256-zAIqgXu/ha1YyB6KzvEP44zhgXt4He2lULxtkwGcSRQ="
     },
     "pdb": {
-      "1raTarea.pdb": "sha256-nCyB5Sff02e7JVO8J7uS+MB9tHeqW7KL5F2yUMLvneo="
+      "1raTarea.pdb": "sha256-hhcdrRJzXYJ0h6MKXOPnUXBeSgpCnDPotNFgUxnaj+8="
     }
   },
   "cacheBootResources": true,

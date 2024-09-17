@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fEoQ+wONIDVlAqkrPIvwj+295yCNfNcXhNoPsALRtV4=",
+  "Hash": "NZkUjg1m1rhjYGzRFdPY/2yJHStFxZ/mw6UNuINNbtY=",
   "Source": "1raTarea",
   "BasePath": "/",
   "Mode": "Root",
@@ -7919,6 +7919,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Tarea1\\1raTarea\\wwwroot\\javy.jpg",
+      "SourceId": "1raTarea",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Tarea1\\1raTarea\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "javy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javy.jpg"
     },
     {
       "Identity": "C:\\Tarea1\\1raTarea\\wwwroot\\sample-data\\weather.json",

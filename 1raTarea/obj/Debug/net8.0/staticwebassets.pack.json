@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Tarea1\\1raTarea\\wwwroot\\javy.jpg",
+      "PackagePath": "staticwebassets\\javy.jpg"
+    },
+    {
       "Id": "C:\\Tarea1\\1raTarea\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

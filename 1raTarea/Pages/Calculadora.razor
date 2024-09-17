@@ -1,0 +1,70 @@
+@page "/calculadora"
+
+<PageTitle>Calculadora</PageTitle>
+
+<h2>Calculadora</h2>
+
+<div class="calculator">
+    <input type="number" @bind="numero1" placeholder="Número 1" />
+    <input type="number" @bind="numero2" placeholder="Número 2" />
+
+    <div class="buttons">
+        <button @onclick="Sumar">➕ Sumar</button>
+        <button @onclick="Restar">➖ Restar</button>
+        <button @onclick="Multiplicar">✖️ Multiplicar</button>
+        <button @onclick="Dividir">➗ Dividir</button>
+        <button @onclick="Limpiar">🗑️ Limpiar</button> 
+    </div>
+
+    <p>Resultado: @resultado</p>
+</div>
+
+@code {
+    private double numero1, numero2, resultado;
+
+    private void Sumar() => resultado = numero1 + numero2;
+    private void Restar() => resultado = numero1 - numero2;
+    private void Multiplicar() => resultado = numero1 * numero2;
+    private void Dividir() => resultado = numero1 / numero2;
+    
+    private void Limpiar()
+    {
+        numero1 = 0;
+        numero2 = 0;
+        resultado = 0;
+    }
+}
+
+<style>
+    .calculator {
+        margin: 20px;
+        padding: 10px;
+        background-color: #f3f3f3;
+        border-radius: 8px;
+    }
+
+    input {
+        margin: 5px;
+        padding: 5px;
+        width: 100px;
+    }
+
+    .buttons button {
+        margin: 5px;
+        padding: 10px;
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .buttons button:hover {
+        background-color: #2980b9;
+    }
+
+    p {
+        font-weight: bold;
+        font-size: 18px;
+    }
+</style>

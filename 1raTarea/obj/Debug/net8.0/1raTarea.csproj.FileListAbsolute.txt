@@ -1029,3 +1029,4 @@ C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.dll
 C:\Tarea1\1raTarea\obj\Debug\net8.0\refint\1raTarea.dll
 C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.pdb
 C:\Tarea1\1raTarea\obj\Debug\net8.0\ref\1raTarea.dll
+C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.sourcelink.json

@@ -26,12 +26,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Tarea1/1raTarea/Pages/Acerca.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNlcmNhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Tarea1/1raTarea/Pages/Aprende_mas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXByZW5kZV9tYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Tarea1/1raTarea/Pages/Calculadora.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYWRvcmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Tarea1/1raTarea/Pages/Inicio.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5pY2lvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tarea1/1raTarea/Pages/Tabla.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Tarea1/1raTarea/Pages/Weather.razor]

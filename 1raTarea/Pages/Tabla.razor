@@ -1,0 +1,29 @@
+@page "/tabla"
+
+<PageTitle>Tabla</PageTitle>
+
+<h1>Tabla de Multiplicar</h1>
+
+<input type="number" @bind="numero" placeholder="Ingresa un número" />
+<button @onclick="GenerarTabla">Generar Tabla</button>
+
+<ul>
+    @foreach (var item in tablaMultiplicar)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+@code {
+    private int numero;
+    private List<string> tablaMultiplicar = new List<string>();
+
+    private void GenerarTabla()
+    {
+        tablaMultiplicar.Clear();
+        for (int i = 0; i <= 15; i++)
+        {
+            tablaMultiplicar.Add($"{i} x {numero} = {i * numero}");
+        }
+    }
+}
