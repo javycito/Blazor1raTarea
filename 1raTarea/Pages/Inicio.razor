@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<h1>¡Bienvenido!</h1>
+<p>Navega por las diferentes secciones y empieza a divertirte, pero sin dejar de aprender, ya que...</p>
+<p class="motivacion">"El aprendizaje es un tesoro que seguirá a su dueño a cualquier lugar."</p>
+
+<img src="https://cdn.pixabay.com/photo/2024/02/10/08/01/mountains-8564328_1280.png" class="imagen-fondo"/>
+
+<style>
+
+    h1 {
+        color: #3498db;
+        text-shadow: 2px 2px 5px #2980b9; /* Sombra al texto */
+        text-align: center;
+    }
+
+    p {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .motivacion {
+        font-style: italic;
+        color: #2ecc71;
+        margin-top: 20px;
+        transition: color 0.3s ease; /* Transición para hover */
+    }
+
+    .motivacion:hover {
+        color: #e74c3c; /* Cambiar color al hacer hover */
+    }
+
+    .imagen-fondo {
+        display: block;
+        margin: 0 auto; /* Centra la imagen horizontalmente */
+        width: 80%; /* Cambia el tamaño de la imagen según sea necesario */
+        max-width: 800px; /* Limita el ancho máximo de la imagen */
+        height: auto; /* Mantiene la proporción de la imagen */
+    }
+</style>
