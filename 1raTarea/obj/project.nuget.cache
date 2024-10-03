@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "78rqmacS2So=",
+  "dgSpecHash": "6lZxoL4mZHk=",
   "success": true,
   "projectFilePath": "C:\\Tarea1\\1raTarea\\1raTarea.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\The Javi Productions\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\The Javi Productions\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\The Javi Productions\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",
     "C:\\Users\\The Javi Productions\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.8\\microsoft.aspnetcore.components.analyzers.8.0.8.nupkg.sha512",
