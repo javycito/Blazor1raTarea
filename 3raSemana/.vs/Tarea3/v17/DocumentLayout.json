@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tarea1\\3raSemana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\acerca_de.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\acerca_de.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\registro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\imprimir.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\imprimir.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\registroedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\registroedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\modelos\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:modelos\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\labeldinero.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\labeldinero.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|c:\\tarea1\\3rasemana\\components\\layout\\printlayaout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA45A215-2E16-41F1-9445-0A4DC078B8A0}|Tarea3.csproj|solutionrelative:components\\layout\\printlayaout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "favicon.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [32x32, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.png",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\wwwroot\\favicon.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [32x32, 32 bits, PNG]",
+              "RelativeToolTip": "wwwroot\\favicon.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [32x32, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T07:30:11.928Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [32x32, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acerca_de.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Acerca_de.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Acerca_de.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Acerca_de.razor",
+              "RelativeToolTip": "Components\\Pages\\Acerca_de.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:29:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Registro.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Registro.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Registro.razor",
+              "RelativeToolTip": "Components\\Pages\\Registro.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T00:21:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Imprimir.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Imprimir.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Imprimir.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Imprimir.razor",
+              "RelativeToolTip": "Components\\Pages\\Imprimir.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T00:21:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroEdit.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\RegistroEdit.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\RegistroEdit.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\RegistroEdit.razor",
+              "RelativeToolTip": "Components\\Pages\\RegistroEdit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T00:21:42.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:26:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:26:13.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:22:21.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LabelDinero.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\LabelDinero.razor",
+              "RelativeDocumentMoniker": "Components\\LabelDinero.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\LabelDinero.razor",
+              "RelativeToolTip": "Components\\LabelDinero.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:21:51.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:21:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Modelos\\Reporte.cs",
+              "RelativeDocumentMoniker": "Modelos\\Reporte.cs",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Modelos\\Reporte.cs",
+              "RelativeToolTip": "Modelos\\Reporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:15:05.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:16:14.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrintLayaout.razor",
+              "DocumentMoniker": "C:\\Tarea1\\3raSemana\\Components\\Layout\\PrintLayaout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\PrintLayaout.razor",
+              "ToolTip": "C:\\Tarea1\\3raSemana\\Components\\Layout\\PrintLayaout.razor",
+              "RelativeToolTip": "Components\\Layout\\PrintLayaout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:13:35.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

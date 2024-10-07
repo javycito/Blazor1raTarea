@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tarea1\\1raSemana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\pages\\calculadora.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\pages\\calculadora.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\pages\\aprende_mas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\pages\\aprende_mas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\pages\\acerca.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\pages\\acerca.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|c:\\tarea1\\1rasemana\\components\\layout\\printlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADFD2CF5-1449-4E1A-9BAB-158F7D1065A9}|1raTarea.csproj|solutionrelative:components\\layout\\printlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Calculadora.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Calculadora.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Calculadora.razor",
+              "RelativeToolTip": "Components\\Pages\\Calculadora.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:38:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aprende_mas.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Aprende_mas.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Aprende_mas.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Aprende_mas.razor",
+              "RelativeToolTip": "Components\\Pages\\Aprende_mas.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:36:08.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:34:43.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:48:50.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T22:48:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Acerca.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Acerca.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Acerca.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Acerca.razor",
+              "RelativeToolTip": "Components\\Pages\\Acerca.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T22:48:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:36:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T22:45:22.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:36:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Inicio.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Inicio.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Pages\\Inicio.razor",
+              "RelativeToolTip": "Components\\Pages\\Inicio.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:15:11.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrintLayout.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raSemana\\Components\\Layout\\PrintLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\PrintLayout.razor",
+              "ToolTip": "C:\\Tarea1\\1raSemana\\Components\\Layout\\PrintLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\PrintLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:14:08.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Accidentes.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor",
+              "RelativeDocumentMoniker": "..\\1raTarea\\Pages\\Accidentes.razor",
+              "ToolTip": "C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor",
+              "RelativeToolTip": "..\\1raTarea\\Pages\\Accidentes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:17:43.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Accidentes.razor",
+              "DocumentMoniker": "C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor",
+              "RelativeDocumentMoniker": "..\\1raTarea\\Pages\\Accidentes.razor",
+              "ToolTip": "C:\\Tarea1\\1raTarea\\Pages\\Accidentes.razor",
+              "RelativeToolTip": "..\\1raTarea\\Pages\\Accidentes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:17:20.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.csproj.AssemblyReference.cache
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.GeneratedMSBuildEditorConfig.editorconfig
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.AssemblyInfoInputs.cache
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.AssemblyInfo.cs
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.csproj.CoreCompileInputs.cache
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.MvcApplicationPartsAssemblyInfo.cache
-C:\Tarea1\1raTarea\obj\Debug\net8.0\1raTarea.sourcelink.json
